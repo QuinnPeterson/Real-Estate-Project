@@ -1,0 +1,134 @@
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\appsettings.json
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Server.exe
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Server.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Api.Gax.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Apis.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Apis.Auth.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Apis.Core.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.dll
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\alex\source\repos\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Cloud.Location.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.LongRunning.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Grpc.Auth.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Properties\Quinns Creds.json
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\FireSharp.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\alex\source\repos\Server\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\appsettings.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Properties\Quinns Creds.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Server.exe
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Server.deps.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Server.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Server.pdb
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\FireSharp.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Api.CommonProtos.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Api.Gax.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Api.Gax.Grpc.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Apis.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Cloud.Firestore.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Cloud.Firestore.V1.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Cloud.Location.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.LongRunning.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Protobuf.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Grpc.Auth.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.Linq.Async.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\refint\Server.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.pdb
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\obj\Debug\net6.0\ref\Server.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Apis.Storage.v1.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\Google.Cloud.Storage.V1.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.CodeDom.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\System.Management.dll
+D:\_QUINNS STUFF\Programming Projects\Real Estate\Server\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Management.dll
