@@ -99,22 +99,22 @@ https://github.com/QuinnPeterson/Real-Estate-Project/assets/63170635/00fcb9f1-e2
 
 
 
-##Project Structure
+#Project Structure
 The .NET server  is organised into the following folders:
 
-####_QUINN
+#_QUINN
 Contains the requests ans responses to the server.
 
-####Controllers
+#Controllers
 Define the end points / routes for the API, controller action methods are the entry points into the API for client applications via HTTP requests.
 
-####Models
+#Models
 Represent request and response models for controller methods, request models define the parameters for incoming requests, and response models define the data that is returned.
 
-####Services
-Contain business logic, validation and database access code.
+#Services
+Contains business logic, validation and database access code.
 
-####Properties
+#Properties
 Contains the launchSettings.json file that sets the environment `(ASPNETCORE_ENVIRONMENT)` to Development by default when running the API on your local machine.
 
 
