@@ -1,7 +1,7 @@
 <h1 align="center">
 Quinn Estate
 
-<img alt="header" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(6).png?raw=true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="Capture.PNG" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/real%20estate/Capture.PNG?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 </h1>
 
@@ -73,23 +73,24 @@ $dotnet run
 
 ## Sign In, Auth and Profile Pic Update
 
-<img alt="header" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(6).png?raw=true" class="Box-sc-g0xbh4-0 kzRgrI">
+https://github.com/QuinnPeterson/Real-Estate-Project/assets/63170635/9d3579d2-2cb6-49e7-8014-61487823172e
+
 
 ## Search
 
-<img alt="Screenshot (10).png" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(10).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+https://github.com/QuinnPeterson/Real-Estate-Project/assets/63170635/a64e614c-3367-462f-b8d8-dd0ef40a7979
+
 
 ## Create Listing
 
-<img alt="Screenshot (10).png" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(13).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+https://github.com/QuinnPeterson/Real-Estate-Project/assets/63170635/8b24da08-fa1b-45d0-978d-7e069ae3c11a
 
-## Upload Video Form page
-
-<img alt="Screenshot (10).png" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(11).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 ## Update and Delete Listings
 
-<img alt="Screenshot (10).png" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Playtube/Screenshot%20(12).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+https://github.com/QuinnPeterson/Real-Estate-Project/assets/63170635/00fcb9f1-e2f4-4ff9-89b8-d6435023e840
+
+
 
 > GitHub [@QuinnPeterson](https://github.com/QuinnPeterson) &nbsp;&middot;&nbsp;
 > LinkedIn [@QuinnPeterson](https://www.linkedin.com/in/quinn-peterson-software-engineer/)
