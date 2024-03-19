@@ -41,7 +41,7 @@ To clone and run this application, you will need [Git](https://git-scm.com) inst
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/quinnpeterson/real-estate-app
+$ git clone https://github.com/quinnpeterson/real-estate-project
 
 # Install frontend dependencies:
 $ cd client
