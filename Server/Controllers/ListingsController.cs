@@ -15,25 +15,18 @@ using System.Threading.Tasks;
 
 namespace Server.Controllers
 {
-
     [EnableCors("MyAllowSpecificOrigins")]
     [ApiController]
     [Route("api/[controller]")]
     public class ListingsController : ControllerBase
     {
-
         private readonly IConfiguration _configuration;
-        //private readonly IListingService _listingService;
-            
-
         private readonly FirestoreDb _firestoreDb;
         private StorageClient _storageClient;
 
-
-        public ListingsController(IConfiguration configuration) //, IListingService listingService)
+        public ListingsController(IConfiguration configuration)
         {
             _configuration = configuration;
-            //_listingService = listingService;
 
             string filepath = Path.Combine(Directory.GetCurrentDirectory(), "Properties", "Quinns Creds.json");
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", filepath);
@@ -77,7 +70,6 @@ namespace Server.Controllers
             }
         }
 
-
         [HttpDelete("delete/{id}")]
         public async Task<IActionResult> DeleteListing(string id)
         {
@@ -102,7 +94,6 @@ namespace Server.Controllers
                 return StatusCode(500, "Internal Server Error");
             }
         }
-
 
         [HttpPut("update/{id}")]
         public async Task<IActionResult> UpdateListing(string id, [FromBody] UpdateListingRequest request)
@@ -142,9 +133,6 @@ namespace Server.Controllers
                 return StatusCode(500, "Internal Server Error");
             }
         }
-
-
-
 
         [HttpGet("getListing/{id}")]
         public async Task<ActionResult<Listing>> GetListingByIdAsync(string id)
@@ -264,36 +252,6 @@ namespace Server.Controllers
                 return StatusCode(500, "Internal Server Error");
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
-
-
 }
 
